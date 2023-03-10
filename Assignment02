@@ -1,0 +1,35 @@
+ Q.1 what is git ?
+ Ans. Git is version control system  used to commit or update file on remote repository or local directory.
+ 
+ Q.2 what do you understand by term version control system ?
+ Ans. The version control system define that the different part of code developed by different developers and the updated version of code is saved on all developers local Repo and Remote Repo
+ 
+ Q.3 What is github ?
+ Ans. Github offers a cloud based git repository where developers can track , store , develop and manage their task.
+ 
+ Q.4 Mention some popular github services ?
+ Ans. Bitbucket
+GitHub
+GitLab
+Perforce
+Beanstalk
+Amazon AWS CodeCommit
+Codebase
+
+Q.5 Different types of version control system ?
+Ans two types of version control system
+1--centralized version control system
+2-- Distributed version control system
+
+
+Q.6 what benefits come with using git ?
+Ans. with using git there is no loss of code because the code is saved at remote repository and on local repository of developers.
+
+
+Q.7 What is git repository ?
+Ans. Git repository is repository from where developers can commit piece of code from company repo and also update or add the code from local area to stage area.
+
+Q.8 How can you initializa a repository in git ?
+Ans. By using git init command we can initialize a repository in git
+ 
+ 
