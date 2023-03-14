@@ -1,0 +1,23 @@
+Q.1 What is programming language ?
+Ans. A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks.
+
+Q.2 Why do we need a programming language?
+Ans. A Programming language helps us to communicate with computer for performing given task.
+
+Q.3 What are features of JAVA ?
+Ans. JAVA  has following features
+      1. Object Oriented
+      2.Robust
+      3. Platform Independent
+      4.Simple
+      5.High Level
+      6.Multithreaded and Distributed
+      
+Q.4   What is an Object?
+Ans. Object is a real world entity exist in environment.
+
+Q.5  What is a class ?
+Ans. Class is a logical template to create objects that share common properties and methods.
+
+Q.6 Explain about the main() method in JAVA ?
+Ans. The execution of the programme is start from main() method.
