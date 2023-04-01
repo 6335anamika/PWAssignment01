@@ -1,0 +1,61 @@
+Q.1 What are the conditional Operators in Java ?
+Ans. It is a ternary operator
+     <operand1>?<operand2>:<operand3>
+     operand1 must be boolean type
+     if operand1 is true then it will returned operand2 otherwise it will returned operand3.
+     
+     
+Q.2 What are the types of operators based on the number of operands?
+Ans  Three Types of Operators based on number of operands:
+      1. Unary Operator
+      2. Binary Operator
+      3. Ternary Operator
+      
+Q.3  What is the use of Switch case in java programming?
+Ans   Switch Statements allows the programme to select one action among multiple actions during program execution.
+
+Q.4  what is the priority level for arithmetic operator in java ?
+Ans  unary:                +exp   -exp
+     multiplicative:       *   /  %
+     Additive:              +   -
+     
+Q.5 What are the conditional StateMents and use of conditional statements in Java ?
+Ans Conditional statements in Java are the executable block of code (or branch to a specific code) dependent on certain conditions. 
+    These statements are also known as decision statements or selection statements in Java.
+    Conditional statement in java:
+    if statement
+    If-else statement
+    If Elseif statement
+    
+Q.6  What is the syntax of if-else statement?
+Ans. Syntax of If-else statement
+     if(condition){
+     statement
+     }else{
+     statement
+     }
+     
+ Q.7   what are 3 types of iterative statements in java ?
+ Ans  Iterative statement in java:
+      for statement
+      while statement 
+      do-while statement
+      
+Q.8    Write the difference between for loop and do-while loop?
+Ans    In for loop program, for loop is used when the number of iterations is known,
+       whereas execution is done in the do-while loop until the statement in the program is proved wrong.
+       
+Q.9    Write a program to print numbers from 1 to 10.
+Ans    package com.loops.statement;
+
+public class Lab164 {
+    public static void main(String[] args) {
+        int n=10;
+        for(int i=1; i<=10; i++){
+            System.out.println(i);
+    }
+    }
+}
+     
+
+    
